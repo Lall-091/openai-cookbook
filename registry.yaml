@@ -4,6 +4,17 @@
 # should build pages for, and indicates metadata such as tags, creation date and
 # authors for each page.
 
+- title: Diff Syntax Highlighting in Markdown
+  path: articles/diff_syntax_highlighting.md
+  date: 2025-12-12
+  tags:
+    - documentation
+    - markdown
+    - diff
+    - syntax-highlighting
+    - code-review
+    - git
+
 - title: Transcribing User Audio with a Separate Realtime Request
   path: examples/Realtime_out_of_band_transcription.ipynb
   date: 2025-11-20
